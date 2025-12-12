@@ -1,4 +1,4 @@
-<img width="258" height="28" alt="image" src="https://github.com/user-attachments/assets/05d613d5-42bc-4fba-817d-878200f813ce" /># 📘 CTTE Session 3 – Lab Exercises 
+# 📘 CTTE Session 3 – Lab Exercises 
 ### Using CodeSandbox (No Installation Needed)
 
 Welcome to the lab environment for **Session 3** of the CTTE x UWC Career Catalyst program.  

@@ -1,0 +1,53 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "command": "python -m pip install -r requirements.txt",
+      "name": "Install Python dependencies"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+
+
+    "Install Python dependencies": {
+      "name": "Install Python dependencies",
+      "command": "python -m pip install -r requirements.txt",
+      "runAtStart": true,
+      "restartOn": {
+        "branch": false,
+        "clone": true,
+        "resume": true
+      }
+    },
+
+    "Jupyter Notebook": {
+      "name": "Jupyter Notebook",
+      "command": "python -m pip install -r requirements.txt && jupyter notebook --ip='*' --port=8888 --no-browser --NotebookApp.token='' --NotebookApp.password='' --NotebookApp.webbrowser_open_new=0 --NotebookApp.allow_remote_access=True --ServerApp.disable_check_xsrf=True --NotebookApp.default_url='/notebooks/CodeSandbox.ipynb' --allow-root --NotebookApp.tornado_settings='{\"headers\":{\"Content-Security-Policy\": \"frame-ancestors *;\"}}'",
+      // "command": "python -m pip install -r requirements.txt && python -m notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root",
+      "runAtStart": true,
+      "preview": {
+        "port": 8888
+      },
+      "restartOn": {
+        "branch": false,
+        "clone": true,
+        "resume": true
+      }
+    }
+    
+
+    // ,"Jupyter Lab": {
+    //   "name": "Jupyter Lab",
+    //   "command": "jupyter lab --ip='*' --NotebookApp.token='' --NotebookApp.password='' --NotebookApp.allow_remote_access=True  --ServerApp.disable_check_xsrf=True --allow-root",
+    //   "restartOn": {
+    //     "branch": false,
+    //     "clone": false,
+    //     "resume": false
+    //   }
+    // }
+
+  }
+}
+

@@ -1,0 +1,9 @@
+notebook==7.0.7
+ipywidgets==8.1.1
+streamlit==1.31.1
+transformers==4.38.2
+sentencepiece==0.1.99
+torch==2.2.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+gradio==4.12.0
+# jupyterlab

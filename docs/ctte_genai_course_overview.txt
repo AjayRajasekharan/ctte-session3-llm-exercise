@@ -1,0 +1,31 @@
+CTTE WOMEN'S COLLEGE – GENAI TRAINING PROGRAM
+
+Program Overview:
+This GenAI training program is designed to introduce undergraduate students to
+Artificial Intelligence, Large Language Models (LLMs), and practical AI applications.
+
+Course Structure:
+The program is divided into five sessions conducted between October and February.
+
+Session 1:
+Introduction to AI, GenAI, and career opportunities in technology.
+Overview of GitHub, development tools, and responsible AI usage.
+
+Session 2:
+Understanding Large Language Models (LLMs).
+Prompt engineering basics and hands-on chatbot examples.
+
+Session 3:
+Building simple LLM-based chatbots using Python and Streamlit.
+Introduction to model parameters and tuning.
+
+Session 4:
+Introduction to Retrieval-Augmented Generation (RAG).
+Using documents to enhance chatbot responses.
+
+Session 5:
+Multi-agent systems, advanced demos, and capstone project showcase.
+
+Outcome:
+By the end of the program, students will build a GenAI project suitable for
+interviews and portfolios.

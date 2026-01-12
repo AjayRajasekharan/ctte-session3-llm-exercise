@@ -19,7 +19,7 @@ Everything runs in **CodeSandbox**, inside a preconfigured virtual environment (
 ### **Step 1 — Open the CodeSandbox link shared by your instructor**
 This link loads a fully configured environment with Python and Jupyter Notebook preinstalled:
 
-🔗 **[https://codesandbox.io/p/devbox/ctte-session3-homework-df48ql](https://codesandbox.io/p/github/AjayRajasekharan/ctte-session3-llm-exercise/main)**
+🔗 **[[https://codesandbox.io/p/devbox/ctte-session3-homework-df48ql](https://codesandbox.io/p/github/AjayRajasekharan/ctte-session3-llm-exercise/main)](https://codesandbox.io/p/devbox/ctte-session3-exercise-sjhr6z)**
 
 ### **Step 2 — Sign in to CodeSandbox (required for saving your work)**
 Click **“Sign in”** at the top-right.  
